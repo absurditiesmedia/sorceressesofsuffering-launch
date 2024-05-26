@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+
 import Layout from "@layouts/Layout.astro";
 import Header from "@components/Header.astro";
 import Footer from "@components/Footer.astro";
@@ -42,20 +43,20 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </a>
 
       <p>
-        <img
-          style="float:right; margin: 10px 5px 5px;"
-          src="/src/assets/images/btc-website.png"
-        /> You're a fucking joke. Look at yourself. That's right. We're laughing
-        at you. Tiny little man, you really think you're something don't you? Nice
-        car, job, bank accounts, but nothing of substance to offer the world. You
-        command a tiny empire of shit. Nothing you've done in life is impressive.
-        You've wasted it chasing your meaningless career. What of actual cultural
-        value have you even created? You've never even known real intimacy. You're
-        a fucking joke, you're part of the problem. Disgusting filth. Your only hope
-        of redemtion is to send as much of your wealth as possible to us, so we can
-        use it for something worthwhile. Things that might have an affect on the
-        course of history. We have real ideas that will affect actual social change.
-        You? Pfft. lol.<br />
+        <div style="float:right; margin: 10px 5px 5px;">
+          <img src="/public/assets/images/btc-website.png" />
+        </div>
+        You're a fucking joke. Look at yourself. That's right. We're laughing at
+        you. Tiny little man, you really think you're something don't you? Nice car,
+        job, bank accounts, but nothing of substance to offer the world. You command
+        a tiny empire of shit. Nothing you've done in life is impressive. You've
+        wasted it chasing your meaningless career. What of actual cultural value
+        have you even created? You've never even known real intimacy. You're a fucking
+        joke, you're part of the problem. Disgusting filth. Your only hope of redemtion
+        is to send as much of your wealth as possible to us, so we can use it for
+        something worthwhile. Things that might have an affect on the course of history.
+        We have real ideas that will affect actual social change. You? Pfft. lol.<br
+        />
         <br />
         BTC: bc1qpf59ruse0nqggemdpy07sz53ftdm9f7jspf8h7
         <br /><br />

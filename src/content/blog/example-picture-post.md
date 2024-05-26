@@ -21,5 +21,5 @@ You wish.
 ![something](@assets/images/3.jpg)
 
 <video width="640" height="480" controls>
-  <source src="/src/assets/video/1.mp4" type="video/mp4">
+  <source src="/public/assets/video/1.mp4" type="video/mp4">
 </video>
