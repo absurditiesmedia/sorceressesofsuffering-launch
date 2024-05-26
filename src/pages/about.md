@@ -6,7 +6,7 @@ title: "About"
 You've arrived at our corner of the web. :vomits in mouth:. Who let you in here? Gross. Well you're here. Gawking at us like the disgusting letcher that you are. Do you ever walk down the street and notice women looking away as you pass them? Or staring in disgust? We imagine that's probably the case. You probably think you're hot shit. Well you're not. You're just as much a part of the patriarchy as any "man" and we use that term lightly. There are not many of your sex worthy of the title. 1% at best. And that's a highly optimistic statistic. We've been around long enough to know. Interacted with enough of you at work and in social circles. "Entitled" is a term we would use to describe the most of you. It's a social disease and you have it. "Not all men?" yeah, we're sure you're more quick to jump to the defense of you kind with comments like that much sooner than you'd ever hold one another accountable for your disgusting misogynistic attitudes. Get a fucking life. Try to find a way to stop being part of the problem.
 
 <div style="float:right; margin: 10px 5px 5px;"> 
-<img src="/public/assets/images/btc-website.png"/>
+<img src="/assets/images/btc-website.png"/>
 </div>
 
 You're a fucking joke. Look at yourself. That's right. We're laughing at you. Tiny little man, you really think you're something don't you? Nice
